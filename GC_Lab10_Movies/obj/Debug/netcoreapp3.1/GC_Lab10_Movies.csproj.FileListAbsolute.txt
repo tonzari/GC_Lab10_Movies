@@ -1,0 +1,14 @@
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.exe
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.deps.json
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.runtimeconfig.json
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.runtimeconfig.dev.json
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.dll
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\GC_Lab10_Movies.pdb
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.csprojAssemblyReference.cache
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.AssemblyInfoInputs.cache
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.AssemblyInfo.cs
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.csproj.CoreCompileInputs.cache
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.dll
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.pdb
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\obj\Debug\netcoreapp3.1\GC_Lab10_Movies.genruntimeconfig.cache
+C:\Users\dude_dude\source\repos\GC_Lab10_Movies\GC_Lab10_Movies\bin\Debug\netcoreapp3.1\MovieData.txt
